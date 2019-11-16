@@ -1,2 +1,2 @@
 # UnityPlatformer
-First 3D platformer made by myself
+Scripts for 3D platformer.
